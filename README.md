@@ -2,7 +2,7 @@
 
 Welcome to my github, my name is Rodrigo Nantes, i'm from Brazil 🇧🇷 and working Front end developer.
 
-💻 I am currently a developer at the company [**Nexfar Tecnologia**](https://nexfar.com.br/)
+I am currently a developer at the company [**Nexfar Tecnologia**](https://nexfar.com.br/)
 
 👨‍💻 Javascript, React.js, Vue.js, Java
 
