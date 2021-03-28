@@ -8,7 +8,7 @@ Welcome to my github, my name is Rodrigo Nantes, i'm from Brazil 🇧🇷 and wo
 
  - 👶 From CG-MS
  - 📍 Living in Florianópolis SC-FL
- - 🚧 Portfolio in progress...
+ - 🖥 https://rodrigosnantes.github.io/
 
 ### Social
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodrigosnantes)](https://github.com/rodrigosnantes)
