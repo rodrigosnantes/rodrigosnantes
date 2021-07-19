@@ -4,11 +4,30 @@ Welcome to my github, my name is Rodrigo Nantes, i'm from Brazil 🇧🇷 and wo
 
 I am currently a developer at the company [**Nexfar Tecnologia**](https://nexfar.com.br/)
 
-👨‍💻 Javascript, React.js, Vue.js, Java
-
- - 👶  - From CG-MS
- - 📍  - Living in Florianópolis SC-FL
+ - 📍  - CG-MS
  - 🖥  - https://rodrigosnantes.github.io/
+
+</br>
+
+### Techs 👨‍💻 
+<div>
+  <img src="https://github.com/rodrigosnantes/rodrigosnantes/blob/main/css3.png" width="70" />
+  <img src="https://github.com/rodrigosnantes/rodrigosnantes/blob/main/js.png" width="70" />
+  <img src="https://github.com/rodrigosnantes/rodrigosnantes/blob/main/redux.png" width="70" />
+  <img src="https://github.com/rodrigosnantes/rodrigosnantes/blob/main/sass.png" width="70" />
+  <img src="https://github.com/gibify/gibify/blob/master/assets/reactjs%201.png" width="70" />
+  <img src="https://github.com/rodrigosnantes/rodrigosnantes/blob/main/vuejs.png" width="70" />
+</div>
+
+</br>
+
+<h1 align="center"> 
+   <img src="https://github-readme-stats.vercel.app/api?username=rodrigosnantes&count_private=true&show_icons=true&theme=dracula" />
+</h1>
+<h1 align="center"> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosnantes&langs_count=8&theme=dracula" />
+</h1>
+
 
 ### Social
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodrigosnantes)](https://github.com/rodrigosnantes)
