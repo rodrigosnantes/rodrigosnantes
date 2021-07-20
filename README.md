@@ -51,8 +51,6 @@ I am currently a developer at the company [**Nexfar Tecnologia**](https://nexfar
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a> 
  
- ![Snake animation](https://github.com/rodrigosnantes/rodrigosnantes/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
  
 
