@@ -7,7 +7,7 @@ I am currently a developer at the company [**Nexfar Tecnologia**](https://nexfar
  - 📍  - CG-MS
  - 🖥  - https://rodrigosnantes.github.io/
 
-</br>
+##
 
 ### Techs 👨‍💻 
 <div>
@@ -26,19 +26,33 @@ I am currently a developer at the company [**Nexfar Tecnologia**](https://nexfar
    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-</br>
+##
 
-<h1 align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api?username=rodrigosnantes&count_private=true&show_icons=true&theme=dracula" />
-</h1>
-<h1 align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosnantes&langs_count=8&theme=dracula" />
-</h1>
+<div>
+  <a href="https://github.com/rodrigosnantes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigosnantes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosnantes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-
+ ##
+ 
 ### Social
+ 
+  
+<div> 
+  <a href="https://www.instagram.com/rodrigosnantes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+ </a>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodrigosnantes)](https://github.com/rodrigosnantes)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigonantess/)](https://www.linkedin.com/in/rodrigonantess/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigosnantes01@gmail.com)](mailto:rodrigosnantes01@gmail.com)
+  <a href="mailto:rodrigosnantes01@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ </a>
+ 
+  <a href="https://www.linkedin.com/in/rodrigonantess" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a> 
+ 
+ ![Snake animation](https://github.com/rodrigosnantes/rodrigosnantes/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
 
