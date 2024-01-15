@@ -5,7 +5,7 @@ Welcome to my github, my name is Rodrigo Nantes, i'm from Brazil 🇧🇷 and wo
 I am currently a developer at the company [**Fractal Engenharia**](https://fractaleng.com.br/)
 
  - 📍  - CG-MS
- - 🖥  - https://rodrigosnantes.github.io/
+ - 🖥  - [https://rodrigosnantes.github.io/](https://rodrigosnantes.netlify.app/)
 
 ##
 
